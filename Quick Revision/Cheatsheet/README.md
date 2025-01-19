@@ -1,5 +1,6 @@
 # Quick Revision
 
+![{EB50B6DB-B182-4A1A-9245-C517376CCB3C}](https://github.com/user-attachments/assets/f31ec759-3404-4386-a66c-0fe546d66e28)
 
 ![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/f9f83b93-b09b-4568-a871-8f9f96286452)
 ![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/20acd03a-976d-43c7-b47e-427e979374ac)
